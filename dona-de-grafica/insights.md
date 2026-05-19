@@ -1,89 +1,84 @@
 # Inteligência competitiva — dona-de-grafica
 
-- URL: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&q=donadegrafica&search_type=keyword_unordered&sort_data[direction]=desc&sort_data[mode]=total_impressions
-- Varredura: 2026-05-19T19:31:53
-- Anúncios analisados: 5
+- URL: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=100064607977131&search_type=page&media_type=all
+- Varredura: 2026-05-19T19:54:05
+- Anúncios analisados: 10
 
 ## Resumo executivo
 
-- **ângulo dominante** — O ângulo dominante foca em resgatar **donos de gráfica** da "corrida dos ratos", prometendo acesso a um **Mercado Corporativo** lucrativo com insights da **China** para fechar **contratos de alto valor** através da "Oficina: A Revolução da Gráfica Lucrativa".
-- **hooks recorrentes** — O único hook recorrente é "Dona de Gráfica", utilizado em todas as campanhas ativas.
-- **CTAs mais usados** — O CTA mais usado é "Saiba mais", presente em todos os anúncios analisados.
-- **público-alvo aparente** — O público-alvo aparente são **donos de gráfica**, especialmente aqueles que buscam escalar seus negócios, aumentar margens e atender o **Mercado Corporativo**.
-- **formato vencedor** — O formato vencedor, com base nos dados fornecidos, é o **vídeo**, sendo o único tipo de criativo utilizado em todos os anúncios.
-- **spend tier estimado** — Com 5 anúncios ativos e consistentes, o spend tier estimado é **médio a alto**, indicando um investimento significativo na promoção do evento.
+- **ângulo dominante** — O ângulo dominante é a transição de **gráficas tradicionais** para o **Mercado Corporativo**, prometendo **contratos de alto valor** e a **Revolução da Gráfica Lucrativa** através de uma oficina.
+- **hooks recorrentes** — O hook recorrente em todos os anúncios é **Dona de Gráfica**, direcionando claramente o público-alvo principal.
+- **CTAs mais usados** — O CTA mais utilizado em todos os criativos é **Saiba mais**, indicando uma intenção de direcionar para uma página de vendas ou landing page.
+- **público-alvo aparente** — O público-alvo aparente são **donos de gráficas** e **empresários do segmento gráfico**, especialmente aqueles que se sentem estagnados ou com margens baixas.
+- **formato vencedor** — O formato vencedor é o **vídeo**, com a apresentadora falando diretamente para a câmera e utilizando elementos visuais como prova social ou cenários de viagem.
+- **spend tier estimado** — O spend tier estimado é **alto**, dada a quantidade de criativos de vídeo ativos simultaneamente e o lançamento concentrado para um evento específico.
 
 ## Padrões criativos
 
-### Hook confessional/problema-solução  ·  5 / 5
+### Problema Comum: Corrida dos Ratos  ·  10 / 10
 
-Inicia com uma dor comum do público ("presa na corrida dos ratos") e se posiciona como solução para o problema. Cria identificação imediata com o público-alvo.
+Inicia o anúncio abordando as dores e frustrações dos donos de gráfica com baixas margens e vendas avulsas.
 
-- Dona de Gráfica
-- presa na corrida dos ratos
-- margens minúsculas
+- A maioria dos donos de gráfica está presa na corrida dos ratos
+- Dá um desespero enorme ver as máquinas paradas, não dá?
 
-### Promessa de alto valor  ·  5 / 5
+### Solução: Mercado Corporativo  ·  10 / 10
 
-Destaca o potencial de ganhos significativos ao atender o mercado corporativo, focando em resultados financeiros concretos. Isso atrai quem busca crescimento e lucratividade.
+Apresenta o Mercado Corporativo como a saída para fechar contratos de alto valor e aumentar a lucratividade da gráfica.
 
-- contratos de 5, 10, 20 mil reais
-- gráfica lucrativa
-- margens minúsculas
+- atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais
+- descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar
 
-### Autoridade e exclusividade  ·  5 / 5
+### Prova Social / Estudo de Caso  ·  2 / 10
 
-O anunciante buscou conhecimento na China, oferecendo uma visão de mercado atualizada e exclusiva. Isso estabelece credibilidade e um senso de oportunidade única.
+Utiliza depoimentos ou exemplos de sucesso de outros empresários gráficos que alcançaram grandes vendas.
 
-- Eu vim para a China
-- buscar uma visão de mercado atualizada
-- descobri os kits e produtos exatos
+- casal... fez na gráfica deles... 172.000,00 reais
+- mais de 500 empresas no segmento gráfico, com presença já confirmada
 
-### Chamada para evento específico  ·  5 / 5
+### Autoridade por Experiência (Viagem à China)  ·  10 / 10
 
-Direciona o público para uma oficina com data e horário definidos, criando um senso de urgência e um objetivo claro para o clique. O evento é o ponto central da conversão.
+Estabelece credibilidade e autoridade ao mencionar uma viagem à China para buscar tendências e fornecedores atualizados.
 
-- Dia 23 de maio | Das 09h às 15h
-- Oficina: A Revolução da Gráfica Lucrativa
-- Vem aí a Oficina
+- Eu vim para a China para buscar uma visão de mercado atualizada
+- garimpando os contatos pra encontrar aqueles que realmente são fábricas
 
-### Consistência criativa  ·  5 / 5
+### Quebra de Objeção (Custo/Tamanho)  ·  5 / 10
 
-Todos os anúncios utilizam o mesmo copy, hook e CTA, focando na repetição da mensagem principal. Isso garante que a proposta de valor seja clara e consistente em todas as veiculações.
+Aborda objeções comuns como o custo da oficina ou a crença de que apenas grandes gráficas podem ter sucesso no mercado corporativo.
 
-- ad 001
-- ad 002
-- ad 003
+- menos de 100 reais
+- R$67 pedindo pizza ou investindo
+- não é um privilégio para quem tem a maior gráfica
 
-### Formato de vídeo exclusivo  ·  5 / 5
+### Urgência e Escassez  ·  7 / 10
 
-A estratégia atual se baseia unicamente em criativos de vídeo para engajar o público. Isso sugere uma aposta na capacidade do vídeo de transmitir a mensagem de forma mais dinâmica e envolvente.
+Cria um senso de urgência e escassez, incentivando a ação imediata para garantir o preço promocional ou a vaga antes da virada de lote.
 
-- ad 001 (video)
-- ad 002 (video)
-- ad 003 (video)
+- garanta o seu ingresso antes que vire o lote
+- preço de lote zero
 
 ## Recomendações táticas
 
-### 01. Testar variações de hooks para atrair diferentes segmentos de donos de gráfica.  ·  prioridade alta
+### 01. Testar novos hooks e variações de copy para o público-alvo.  ·  prioridade alta
 
-O hook "Dona de Gráfica" é único, mas pode limitar o alcance ou não ressoar com todos os perfis. Novas abordagens podem capturar a atenção de quem busca soluções específicas, como "Gráfica com margens baixas?" ou "Como fechar contratos de 20k?".
+Embora o hook 'Dona de Gráfica' seja consistente, variações que abordem dores mais específicas ou promessas diretas podem otimizar a taxa de cliques e a qualificação do lead.
 
-### 02. Desenvolver criativos em vídeo com diferentes abordagens visuais e narrativas.  ·  prioridade alta
+### 02. Criar uma sequência de remarketing focada em quebra de objeções e prova social.  ·  prioridade alta
 
-Embora o formato vídeo seja eficaz, a repetição exata do conteúdo pode levar à fadiga do anúncio. Variações podem manter o engajamento e testar o que mais ressoa visualmente, como depoimentos ou trechos da viagem à China.
+Muitos criativos já abordam objeções como custo ou tamanho da gráfica. Uma campanha de remarketing dedicada a quem interagiu, mas não converteu, pode reforçar esses pontos e aumentar a conversão.
 
-### 03. A/B testar CTAs mais diretos e focados na ação para o evento.  ·  prioridade média
+### 03. Explorar formatos de imagem estática ou carrossel com exemplos de kits corporativos.  ·  prioridade média
 
-"Saiba mais" é genérico. CTAs como "Inscreva-se Agora" ou "Garanta Sua Vaga" podem gerar maior senso de urgência e aumentar a taxa de cliques para a inscrição, deixando a intenção mais clara.
+Todos os anúncios são em vídeo. Testar outros formatos pode diversificar o alcance, atrair públicos diferentes e potencialmente reduzir o custo por aquisição, mostrando visualmente os produtos prometidos.
 
-### 04. Explorar a criação de anúncios com formatos alternativos, como imagens estáticas ou carrosséis.  ·  prioridade média
+### 04. Segmentar anúncios para diferentes estágios de maturidade da gráfica (ex: iniciantes vs. experientes).  ·  prioridade média
 
-Diversificar os formatos pode alcançar usuários que preferem consumir conteúdo de forma diferente ou em contextos onde o vídeo pode ser menos ideal, como em redes com dados limitados ou para apresentar múltiplos pontos da oferta.
+Os anúncios mencionam tanto gráficas que faturam pouco quanto aquelas que buscam escalar. Criativos e mensagens adaptadas a cada perfil podem gerar maior identificação e engajamento.
 
-### 05. Criar copies que explorem outros benefícios ou dores menos explícitas no copy atual.  ·  prioridade baixa
+### 05. Desenvolver conteúdo de topo de funil sobre 'tendências do mercado gráfico 2026' ou 'como vender para empresas'.  ·  prioridade baixa
 
-O copy atual é abrangente, mas focar em um benefício específico (ex: "como otimizar processos" ou "como se diferenciar da concorrência") pode atrair nichos dentro do público-alvo e diversificar a mensagem.
+Para atrair um público ainda não consciente da solução, conteúdo educativo pode gerar leads qualificados a longo prazo, posicionando a marca como autoridade antes da oferta direta.
 
 ## Anúncios
 
@@ -118,6 +113,41 @@ O copy atual é abrangente, mas focar em um benefício específico (ex: "como ot
 ### ad 005 (Vídeo)
 - id: `1275373384304688`
 - ativo desde: 14 de mai de 2026
+- hook: **Dona de Gráfica**
+- copy: A maioria dos donos de gráfica está presa na corrida dos ratos: vendendo mais do mesmo, dando descontos absurdos e operando com margens minúsculas. Mas existe um movimento silencioso acontecendo: as gráficas que decidiram atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais de uma só vez. Eu vim para a China para buscar uma visão de mercado atualizada para a sua grática em 2026. E eu descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar. Em vez de guardar isso só para mim, eu decidi abrir os bastidores dessa viagem para você. 📅 Dia 23 de maio | Das 09h às 15h Vem aí a Oficina: A Revolução da Gráfica Lucrativa.
+- CTA: Saiba mais
+
+### ad 006 (Vídeo)
+- id: `991517197143603`
+- ativo desde: 18 de mai de 2026
+- hook: **Dona de Gráfica**
+- copy: A maioria dos donos de gráfica está presa na corrida dos ratos: vendendo mais do mesmo, dando descontos absurdos e operando com margens minúsculas. Mas existe um movimento silencioso acontecendo: as gráficas que decidiram atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais de uma só vez. Eu vim para a China para buscar uma visão de mercado atualizada para a sua grática em 2026. E eu descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar. Em vez de guardar isso só para mim, eu decidi abrir os bastidores dessa viagem para você. 📅 Dia 23 de maio | Das 09h às 15h Vem aí a Oficina: A Revolução da Gráfica Lucrativa.
+- CTA: Saiba mais
+
+### ad 007 (Vídeo)
+- id: `955416693980717`
+- ativo desde: 7 de mai de 2026
+- hook: **Dona de Gráfica**
+- copy: A maioria dos donos de gráfica está presa na corrida dos ratos: vendendo mais do mesmo, dando descontos absurdos e operando com margens minúsculas. Mas existe um movimento silencioso acontecendo: as gráficas que decidiram atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais de uma só vez. Eu vim para a China para buscar uma visão de mercado atualizada para a sua grática em 2026. E eu descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar. Em vez de guardar isso só para mim, eu decidi abrir os bastidores dessa viagem para você. 📅 Dia 23 de maio | Das 09h às 15h Vem aí a Oficina: A Revolução da Gráfica Lucrativa.
+- CTA: Saiba mais
+
+### ad 008 (Vídeo)
+- id: `845669998014983`
+- ativo desde: 7 de mai de 2026
+- hook: **Dona de Gráfica**
+- copy: A maioria dos donos de gráfica está presa na corrida dos ratos: vendendo mais do mesmo, dando descontos absurdos e operando com margens minúsculas. Mas existe um movimento silencioso acontecendo: as gráficas que decidiram atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais de uma só vez. Eu vim para a China para buscar uma visão de mercado atualizada para a sua grática em 2026. E eu descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar. Em vez de guardar isso só para mim, eu decidi abrir os bastidores dessa viagem para você. 📅 Dia 23 de maio | Das 09h às 15h Vem aí a Oficina: A Revolução da Gráfica Lucrativa.
+- CTA: Saiba mais
+
+### ad 009 (Vídeo)
+- id: `1653484059013070`
+- ativo desde: 7 de mai de 2026
+- hook: **Dona de Gráfica**
+- copy: A maioria dos donos de gráfica está presa na corrida dos ratos: vendendo mais do mesmo, dando descontos absurdos e operando com margens minúsculas. Mas existe um movimento silencioso acontecendo: as gráficas que decidiram atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais de uma só vez. Eu vim para a China para buscar uma visão de mercado atualizada para a sua grática em 2026. E eu descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar. Em vez de guardar isso só para mim, eu decidi abrir os bastidores dessa viagem para você. 📅 Dia 23 de maio | Das 09h às 15h Vem aí a Oficina: A Revolução da Gráfica Lucrativa.
+- CTA: Saiba mais
+
+### ad 010 (Vídeo)
+- id: `1690722202045615`
+- ativo desde: 7 de mai de 2026
 - hook: **Dona de Gráfica**
 - copy: A maioria dos donos de gráfica está presa na corrida dos ratos: vendendo mais do mesmo, dando descontos absurdos e operando com margens minúsculas. Mas existe um movimento silencioso acontecendo: as gráficas que decidiram atender o Mercado Corporativo estão fechando contratos de 5, 10, 20 mil reais de uma só vez. Eu vim para a China para buscar uma visão de mercado atualizada para a sua grática em 2026. E eu descobri os kits e produtos exatos que as grandes empresas estão sedentas para comprar. Em vez de guardar isso só para mim, eu decidi abrir os bastidores dessa viagem para você. 📅 Dia 23 de maio | Das 09h às 15h Vem aí a Oficina: A Revolução da Gráfica Lucrativa.
 - CTA: Saiba mais
