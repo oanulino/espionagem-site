@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Espionagem Competitiva — GA Ads</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0a0a; --fg: #e8e8e8; --fg-soft: #b8b8b8; --fg-muted: #6b6b6b;
+  --accent: #7a96a8; --border: rgba(255,255,255,0.07);
+  --font: "Space Grotesk", sans-serif; --mono: "Geist Mono", monospace;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--fg); font-family: var(--font); min-height: 100vh; }
+.shell { max-width: 960px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header { margin-bottom: 4rem; }
+.eyebrow { font-family: var(--mono); font-size: .7rem; letter-spacing: .4em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 1rem; }
+h1 { font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; letter-spacing: -.03em; line-height: 1; margin-bottom: 1rem; }
+.lede { color: var(--fg-soft); font-size: 1rem; max-width: 50ch; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; }
+.card { display: block; text-decoration: none; padding: 1.6rem; border: 1px solid var(--border); border-radius: 16px; background: rgba(255,255,255,.02); transition: border-color .2s, transform .2s; }
+.card:hover { border-color: rgba(255,255,255,.15); transform: translateY(-2px); }
+.card .slug { font-family: var(--mono); font-size: .65rem; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); margin-bottom: .8rem; display: block; }
+.card .name { font-size: 1.2rem; font-weight: 600; color: #fff; margin-bottom: .5rem; letter-spacing: -.01em; }
+.card .meta { font-family: var(--mono); font-size: .72rem; color: var(--fg-muted); }
+.empty { color: var(--fg-muted); font-family: var(--mono); font-size: .85rem; padding: 3rem 0; }
+footer { margin-top: 5rem; padding-top: 2rem; border-top: 1px solid var(--border); font-family: var(--mono); font-size: .7rem; color: var(--fg-muted); letter-spacing: .15em; text-transform: uppercase; }
+</style>
+</head>
+<body>
+<div class="shell">
+  <header>
+    <span class="eyebrow">ga ads · inteligência competitiva</span>
+    <h1>Espionagem</h1>
+    <p class="lede">Relatórios de análise da concorrência. Atualizado automaticamente após cada varredura.</p>
+  </header>
+
+  <div class="grid" id="grid">
+    <!-- relatórios injetados aqui pelo script de publicação -->
+  </div>
+
+  <footer>espionagem.gustavoanulino.com.br · ga ads</footer>
+</div>
+</body>
+</html>
