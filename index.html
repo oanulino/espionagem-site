@@ -5,47 +5,179 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Espionagem Competitiva — GA Ads</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #0a0a0a; --fg: #e8e8e8; --fg-soft: #b8b8b8; --fg-muted: #6b6b6b;
-  --accent: #7a96a8; --border: rgba(255,255,255,0.07);
-  --font: "Space Grotesk", sans-serif; --mono: "Geist Mono", monospace;
+  --bg: #0a0a0a;
+  --card: #141414;
+  --border: #222;
+  --accent: #e63232;
+  --text: #f0f0f0;
+  --muted: #666;
+  --muted-2: #999;
+  --font: "DM Sans", sans-serif;
+  --font-head: "Syne", sans-serif;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { background: var(--bg); color: var(--fg); font-family: var(--font); min-height: 100vh; }
-.shell { max-width: 960px; margin: 0 auto; padding: 4rem 2rem 6rem; }
-header { margin-bottom: 4rem; }
-.eyebrow { font-family: var(--mono); font-size: .7rem; letter-spacing: .4em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 1rem; }
-h1 { font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; letter-spacing: -.03em; line-height: 1; margin-bottom: 1rem; }
-.lede { color: var(--fg-soft); font-size: 1rem; max-width: 50ch; }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; }
-.card { display: block; text-decoration: none; padding: 1.6rem; border: 1px solid var(--border); border-radius: 16px; background: rgba(255,255,255,.02); transition: border-color .2s, transform .2s; }
-.card:hover { border-color: rgba(255,255,255,.15); transform: translateY(-2px); }
-.card .slug { font-family: var(--mono); font-size: .65rem; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); margin-bottom: .8rem; display: block; }
-.card .name { font-size: 1.2rem; font-weight: 600; color: #fff; margin-bottom: .5rem; letter-spacing: -.01em; }
-.card .meta { font-family: var(--mono); font-size: .72rem; color: var(--fg-muted); }
-.empty { color: var(--fg-muted); font-family: var(--mono); font-size: .85rem; padding: 3rem 0; }
-footer { margin-top: 5rem; padding-top: 2rem; border-top: 1px solid var(--border); font-family: var(--mono); font-size: .7rem; color: var(--fg-muted); letter-spacing: .15em; text-transform: uppercase; }
+body { background: var(--bg); color: var(--text); font-family: var(--font); min-height: 100vh; }
+.shell { max-width: 1000px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+
+/* brand header */
+.brand-header {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-bottom: 3.5rem;
+}
+.brand-dot {
+  width: 10px; height: 10px;
+  background: var(--accent);
+  border-radius: 50%;
+  animation: pulse 2s ease-in-out infinite;
+  flex-shrink: 0;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: .5; transform: scale(.7); }
+}
+.brand-label {
+  font-family: var(--font-head);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* page title */
+header { margin-bottom: 3.5rem; }
+h1 {
+  font-family: var(--font-head);
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  font-weight: 800;
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--text);
+  margin-bottom: .9rem;
+}
+h1 span { color: var(--accent); }
+.lede { color: var(--muted-2); font-size: .95rem; font-weight: 300; max-width: 44ch; line-height: 1.6; }
+
+/* grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 1.2rem;
+}
+
+/* card */
+.card {
+  display: block;
+  text-decoration: none;
+  padding: 1.6rem 1.6rem 1.4rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-top: 2px solid var(--accent);
+  border-radius: 12px;
+  transition: border-color .2s, transform .15s, background .2s;
+}
+.card:hover {
+  border-color: var(--accent);
+  background: #1a1a1a;
+  transform: translateY(-2px);
+}
+.card .slug {
+  font-family: var(--font-head);
+  font-size: .6rem;
+  font-weight: 800;
+  letter-spacing: .25em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: .8rem;
+  display: block;
+}
+.card .name {
+  font-family: var(--font-head);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: .55rem;
+  letter-spacing: -.015em;
+}
+.card .meta {
+  font-size: .76rem;
+  font-weight: 300;
+  color: var(--muted);
+}
+.card .arrow {
+  display: inline-block;
+  margin-left: .4rem;
+  opacity: 0;
+  transition: opacity .15s, transform .15s;
+  color: var(--accent);
+}
+.card:hover .arrow { opacity: 1; transform: translateX(3px); }
+
+.empty {
+  color: var(--muted);
+  font-size: .85rem;
+  font-weight: 300;
+  padding: 3rem 0;
+}
+
+/* footer */
+footer {
+  margin-top: 5rem;
+  padding-top: 1.8rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.footer-logo {
+  width: 28px; height: 28px;
+  background: var(--accent);
+  border-radius: 6px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-head);
+  font-weight: 800;
+  font-size: .75rem;
+  color: #fff;
+  flex-shrink: 0;
+}
+.footer-text {
+  font-size: .7rem;
+  font-weight: 300;
+  color: var(--muted);
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
 </style>
 </head>
 <body>
 <div class="shell">
+  <div class="brand-header">
+    <span class="brand-dot"></span>
+    <span class="brand-label">GA Ads · Inteligência Competitiva</span>
+  </div>
+
   <header>
-    <span class="eyebrow">ga ads · inteligência competitiva</span>
-    <h1>Espionagem</h1>
-    <p class="lede">Relatórios de análise da concorrência. Atualizado automaticamente após cada varredura.</p>
+    <h1>Espiona<span>gem</span></h1>
+    <p class="lede">Análises de concorrentes. Atualizado automaticamente após cada varredura.</p>
   </header>
 
   <div class="grid" id="grid">
     <a class="card" href="/dona-de-grafica">
       <span class="slug">dona-de-grafica</span>
       <div class="name">Dona de Grafica</div>
-      <div class="meta">5 criativos · 19 / may / 2026</div>
+      <div class="meta">5 criativos · 19 / may / 2026 <span class="arrow">→</span></div>
     </a>
   </div>
 
-  <footer>espionagem.gustavoanulino.com.br · ga ads</footer>
+  <footer>
+    <div class="footer-logo">G</div>
+    <span class="footer-text">espionagem.gustavoanulino.com.br · GA Ads</span>
+  </footer>
 </div>
 </body>
 </html>
