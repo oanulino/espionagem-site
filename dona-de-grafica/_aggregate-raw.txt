@@ -1,0 +1,123 @@
+{
+  "insights": [
+    {
+      "icon": "A",
+      "tag": "ângulo dominante",
+      "text": "O ângulo dominante foca em resgatar <strong>donos de gráfica</strong> da \"corrida dos ratos\", prometendo acesso a um <strong>Mercado Corporativo</strong> lucrativo com insights da <strong>China</strong> para fechar <strong>contratos de alto valor</strong> através da \"Oficina: A Revolução da Gráfica Lucrativa\"."
+    },
+    {
+      "icon": "H",
+      "tag": "hooks recorrentes",
+      "text": "O único hook recorrente é \"Dona de Gráfica\", utilizado em todas as campanhas ativas."
+    },
+    {
+      "icon": "C",
+      "tag": "CTAs mais usados",
+      "text": "O CTA mais usado é \"Saiba mais\", presente em todos os anúncios analisados."
+    },
+    {
+      "icon": "P",
+      "tag": "público-alvo aparente",
+      "text": "O público-alvo aparente são <strong>donos de gráfica</strong>, especialmente aqueles que buscam escalar seus negócios, aumentar margens e atender o <strong>Mercado Corporativo</strong>."
+    },
+    {
+      "icon": "F",
+      "tag": "formato vencedor",
+      "text": "O formato vencedor, com base nos dados fornecidos, é o <strong>vídeo</strong>, sendo o único tipo de criativo utilizado em todos os anúncios."
+    },
+    {
+      "icon": "$",
+      "tag": "spend tier estimado",
+      "text": "Com 5 anúncios ativos e consistentes, o spend tier estimado é <strong>médio a alto</strong>, indicando um investimento significativo na promoção do evento."
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Hook confessional/problema-solução",
+      "freq": "5 / 5",
+      "desc": "Inicia com uma dor comum do público (\"presa na corrida dos ratos\") e se posiciona como solução para o problema. Cria identificação imediata com o público-alvo.",
+      "examples": [
+        "Dona de Gráfica",
+        "presa na corrida dos ratos",
+        "margens minúsculas"
+      ]
+    },
+    {
+      "title": "Promessa de alto valor",
+      "freq": "5 / 5",
+      "desc": "Destaca o potencial de ganhos significativos ao atender o mercado corporativo, focando em resultados financeiros concretos. Isso atrai quem busca crescimento e lucratividade.",
+      "examples": [
+        "contratos de 5, 10, 20 mil reais",
+        "gráfica lucrativa",
+        "margens minúsculas"
+      ]
+    },
+    {
+      "title": "Autoridade e exclusividade",
+      "freq": "5 / 5",
+      "desc": "O anunciante buscou conhecimento na China, oferecendo uma visão de mercado atualizada e exclusiva. Isso estabelece credibilidade e um senso de oportunidade única.",
+      "examples": [
+        "Eu vim para a China",
+        "buscar uma visão de mercado atualizada",
+        "descobri os kits e produtos exatos"
+      ]
+    },
+    {
+      "title": "Chamada para evento específico",
+      "freq": "5 / 5",
+      "desc": "Direciona o público para uma oficina com data e horário definidos, criando um senso de urgência e um objetivo claro para o clique. O evento é o ponto central da conversão.",
+      "examples": [
+        "Dia 23 de maio | Das 09h às 15h",
+        "Oficina: A Revolução da Gráfica Lucrativa",
+        "Vem aí a Oficina"
+      ]
+    },
+    {
+      "title": "Consistência criativa",
+      "freq": "5 / 5",
+      "desc": "Todos os anúncios utilizam o mesmo copy, hook e CTA, focando na repetição da mensagem principal. Isso garante que a proposta de valor seja clara e consistente em todas as veiculações.",
+      "examples": [
+        "ad 001",
+        "ad 002",
+        "ad 003"
+      ]
+    },
+    {
+      "title": "Formato de vídeo exclusivo",
+      "freq": "5 / 5",
+      "desc": "A estratégia atual se baseia unicamente em criativos de vídeo para engajar o público. Isso sugere uma aposta na capacidade do vídeo de transmitir a mensagem de forma mais dinâmica e envolvente.",
+      "examples": [
+        "ad 001 (video)",
+        "ad 002 (video)",
+        "ad 003 (video)"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "what": "Testar variações de hooks para atrair diferentes segmentos de donos de gráfica.",
+      "why": "O hook \"Dona de Gráfica\" é único, mas pode limitar o alcance ou não ressoar com todos os perfis. Novas abordagens podem capturar a atenção de quem busca soluções específicas, como \"Gráfica com margens baixas?\" ou \"Como fechar contratos de 20k?\".",
+      "priority": "high"
+    },
+    {
+      "what": "Desenvolver criativos em vídeo com diferentes abordagens visuais e narrativas.",
+      "why": "Embora o formato vídeo seja eficaz, a repetição exata do conteúdo pode levar à fadiga do anúncio. Variações podem manter o engajamento e testar o que mais ressoa visualmente, como depoimentos ou trechos da viagem à China.",
+      "priority": "high"
+    },
+    {
+      "what": "A/B testar CTAs mais diretos e focados na ação para o evento.",
+      "why": "\"Saiba mais\" é genérico. CTAs como \"Inscreva-se Agora\" ou \"Garanta Sua Vaga\" podem gerar maior senso de urgência e aumentar a taxa de cliques para a inscrição, deixando a intenção mais clara.",
+      "priority": "med"
+    },
+    {
+      "what": "Explorar a criação de anúncios com formatos alternativos, como imagens estáticas ou carrosséis.",
+      "why": "Diversificar os formatos pode alcançar usuários que preferem consumir conteúdo de forma diferente ou em contextos onde o vídeo pode ser menos ideal, como em redes com dados limitados ou para apresentar múltiplos pontos da oferta.",
+      "priority": "med"
+    },
+    {
+      "what": "Criar copies que explorem outros benefícios ou dores menos explícitas no copy atual.",
+      "why": "O copy atual é abrangente, mas focar em um benefício específico (ex: \"como otimizar processos\" ou \"como se diferenciar da concorrência\") pode atrair nichos dentro do público-alvo e diversificar a mensagem.",
+      "priority": "low"
+    }
+  ]
+}
